@@ -1,0 +1,5 @@
+Objetivo Geral:
+Apresentar os conceitos que caracterzam o pensamento computacional, permitindo que o Dev entenda o que é pensar computacionalmente.
+
+##Link Da Apostila
+[Primeiros passos](https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
